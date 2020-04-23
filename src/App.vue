@@ -2,6 +2,7 @@
   <div id="app">
     hmtt
     <router-view/>
+    <i class="iconfont iconshanchu"></i>
   </div>
 </template>
 
